@@ -4,11 +4,18 @@ img{
   border-radius: 4px;
 }
 
-/* .intro{
-  background-image: url(media/profile.jpeg);
-  background-repeat: no-repeat;
-  background-size: contain;
-} */
+.container{
+  position:relative;
+  text-align: center;
+  color: #f2f2f2;
+}
+
+.intro{
+  position: absolute;
+  top:50%;
+  left:15%;
+  transform: translate(-50%,-50%);
+}
 
 h1,h2,h3,h4{
   font-family: 'Roboto', sans-serif;
