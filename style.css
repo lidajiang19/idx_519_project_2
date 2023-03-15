@@ -79,7 +79,7 @@ td{
 }
 
 .navigation li{
-  float: left;
+  float: center;
 }
 
 .navigation li a{
