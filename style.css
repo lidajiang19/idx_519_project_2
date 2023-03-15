@@ -14,12 +14,12 @@ img{
   color: #f2f2f2;
 }
 
-.intro{
-  position: relative;
+/* .intro{
+  position: absolute;
   top:50%;
   left:15%;
   transform: translate(-50%,-50%);
-}
+} */
 
 .campus .cats{
   position: relative;
