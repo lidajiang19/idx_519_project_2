@@ -83,6 +83,7 @@ td{
 
 .navigation li{
   float: left;
+  font-family: 'Roboto', sans-serif;
 }
 
 .navigation li a{
