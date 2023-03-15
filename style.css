@@ -18,6 +18,11 @@ img{
   transform: translate(-50%,-50%);
 }
 
+.campus .cats{
+  position:relative;
+  text-align: center;
+}
+
 h1,h2,h3,h4,body{
   font-family: 'Roboto', sans-serif;
 }
