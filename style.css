@@ -18,7 +18,7 @@ img{
   transform: translate(-50%,-50%);
 }
 
-h1,h2,h3,h4{
+h1,h2,h3,h4,body{
   font-family: 'Roboto', sans-serif;
 }
 
@@ -34,7 +34,7 @@ td{
   font-family: 'Roboto', sans-serif;
 }
 
-.topnav{
+/* .topnav{
   background-color: #333333;
   overflow: hhidden;
 }
@@ -54,4 +54,29 @@ td{
 .topnav a.active{
   background-color: #0884ef;
   color:white
+} */
+
+.navigation{
+  background-color: #043C70;
+  border-radius:4px;
+  list-style: none;
+  margin:0px;
+  padding: 0px;
+  overflow: auto;
+}
+
+.navigation li{
+  float: left;
+}
+
+.navigation li a{
+  display: block;
+  text-decoration: none;
+  color:#f2f2f2;
+  padding: 16px 33px;
+}
+
+.navigation li a:hover{
+  background-color: #ffffff;
+  opacity: 20%;
 }
