@@ -78,7 +78,7 @@ td{
 
 /* https://www.youtube.com/watch?v=-UxqoVQsvCA */
 .navigation{
-  background-color: #043C70;
+  background-color: #041347;
   border-radius:4px;
   list-style: none;
   margin:0px;
@@ -99,5 +99,5 @@ td{
 }
 
 .navigation li a:hover{
-  background-color: #36638d;
+  background-color: #2a3663;
 }
