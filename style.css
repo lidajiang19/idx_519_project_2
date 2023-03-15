@@ -4,11 +4,11 @@ img{
   border-radius: 4px;
 }
 
-.intro{
+/* .intro{
   background-image: url(media/profile.jpeg);
   background-repeat: no-repeat;
   background-size: contain;
-}
+} */
 
 h1,h2,h3,h4{
   font-family: 'Roboto', sans-serif;
