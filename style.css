@@ -54,6 +54,10 @@ td{
   font-family: 'Roboto', sans-serif;
 }
 
+.title{
+  font-weight: bold;
+}
+
 /* .topnav{
   background-color: #333333;
   overflow: hhidden;
