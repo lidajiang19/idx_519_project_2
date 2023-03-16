@@ -42,20 +42,13 @@ h1,h2,h3,h4,body{
   font-family: 'Roboto', sans-serif;
 }
 
-p{
-  font-family: 'Roboto', sans-serif;
-}
-
-tr{
-  font-family: 'Roboto', sans-serif;
-}
-
-td{
+p,tr,td{
   font-family: 'Roboto', sans-serif;
 }
 
 .title{
   font-weight: bold;
+  background: #f3f3f3;
 }
 
 /* .topnav{
