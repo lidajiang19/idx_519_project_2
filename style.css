@@ -31,11 +31,12 @@ img{
   text-align: center;
 }
 
-.video{
-  transform: translate(-50%,-50%);
-  position: absolute;
-  top: 50%;
-  left: 50%;
+video.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  height: auto;
 }
 
 h1,h2,h3,h4,body{
@@ -102,6 +103,7 @@ p,tr,td{
   background-color: #2a3663;
 }
 
+/* https://learn.shayhowe.com/html-css/positioning-content/ */
 .cv{
   float: left;
   width: 60%;
