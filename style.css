@@ -77,15 +77,18 @@ p,tr,td{
 .navigation{
   background-color: #041347;
   border-radius:4px;
-  list-style: none;
+  list-style-type: none;
   margin:0px;
   padding: 0px;
-  overflow: auto;
+  /* overflow: auto; */
+  text-align: center;
 }
 
 .navigation li{
-  float: left;
+  /* float: left; */
+  display: inline-block;
   font-family: 'Roboto', sans-serif;
+  padding: 20px;
 }
 
 .navigation li a{
