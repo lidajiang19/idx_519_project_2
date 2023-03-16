@@ -101,3 +101,13 @@ p,tr,td{
 .navigation li a:hover{
   background-color: #2a3663;
 }
+
+.cv{
+  float: left;
+  width: 60%;
+}
+
+aside{
+  float: right;
+  width: 30%;
+}
