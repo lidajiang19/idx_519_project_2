@@ -3,8 +3,9 @@ img{
   max-width: 50%;
   border-radius: 4px;
   display: block;
-  margin-left: auto;
-  margin-right:auto;
+  float:left;
+  /* margin-left: auto;
+  margin-right:auto; */
 }
 
 /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_text */
@@ -28,7 +29,7 @@ img{
 
 .description{
   position: relative;
-  text-align: center;
+  /* text-align: center; */
 }
 
 video.center{
