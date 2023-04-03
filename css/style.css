@@ -8,6 +8,22 @@
   margin-right:auto; */
 }
 
+.campus{
+  height: auto;
+  max-width: 50%;
+  border-radius: 4px;
+  display: block;
+  float:left;
+}
+
+.cat{
+  height: auto;
+  max-width: 50%;
+  border-radius: 4px;
+  display: block;
+  float:left;
+}
+
 .worksample{
   height: auto;
   max-width: 50%;
