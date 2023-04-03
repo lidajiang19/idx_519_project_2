@@ -127,3 +127,8 @@ p,tr,td{
   float:right;
   width:30%
 }
+
+.description{
+  margin-top: 50px;
+  padding: 20px;
+}
