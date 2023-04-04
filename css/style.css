@@ -16,7 +16,7 @@
 
 .container{
   display:flex;
-  align-items: left;
+  align-items: center;
   justify-content: left;
 }
 
