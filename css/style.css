@@ -92,9 +92,10 @@ h1,h2,h3,h4,body{
   font-family: 'Roboto', sans-serif;
 }
 
-/* p,tr,td{
+p{
   font-family: 'Roboto', sans-serif;
-} */
+  font-size: 24pxa;
+}
 
 .title{
   font-weight: bold;
